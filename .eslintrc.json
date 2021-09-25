@@ -20,6 +20,7 @@
         "object-curly-newline": "off",
         "operator-linebreak": "off",
         "implicit-arrow-linebreak": "off",
-        "newline-per-chained-call": "off"
+        "newline-per-chained-call": "off",
+        "no-unused-vars": "off"
     }
 }
